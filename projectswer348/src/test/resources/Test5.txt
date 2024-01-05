@@ -1,0 +1,2 @@
+Software Engineering;4;Dr. Iman;iman@example.com;Monday 09:00-11:00,Tuesday 11:00-13:00;null;Fall;2023-09-01;2023-12-15
+Database Systems;3;0;;Wednesday 14:00-17:00;0;Spring;2024-02-03;2024-06-25

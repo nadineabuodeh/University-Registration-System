@@ -1,0 +1,1 @@
+Database Systems;3;Dr. Iman;iman@example.com;Wednesday 14:00-16:00;null;Spring;2024-02-03;2024-06-25;

@@ -1,0 +1,3 @@
+faculty;Dr. Iman;iman@example.com
+faculty;Mr. Toulin;toulin@example.com
+faculty;Dr. Ahmad;ahmad@example.com
